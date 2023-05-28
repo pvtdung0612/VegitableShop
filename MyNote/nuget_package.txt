@@ -11,6 +11,9 @@ Microsoft.EntityFrameworkCore.Tools @ 6.0.15
 3.
 Microsoft.EntityFrameworkCore.SqlServer @ 6.0.15
 
+cấu hình trong Tools> NugetPackage Manager> Package Manager Console:
+Scaffold-DbContext "Server=DESKTOP-HM9E0PP; Database=dbVegitableShop; Trusted_Connection=True; MultipleActiveResultSets=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+
 4.
 Microsoft.EntityFrameworkCore @ 6.0.16
 
