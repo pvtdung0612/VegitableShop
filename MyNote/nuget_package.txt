@@ -1,0 +1,48 @@
+net core 6.0
+
+1.
+Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation @ 6.0.16
+
+cài đặt xong thì cấu hình file Programs: https://learn.microsoft.com/en-us/aspnet/core/mvc/views/view-compilation?view=aspnetcore-7.0&tabs=visual-studio#enable-runtime-compilation-for-all-environments
+
+2.
+Microsoft.EntityFrameworkCore.Tools @ 6.0.15
+
+3.
+Microsoft.EntityFrameworkCore.SqlServer @ 6.0.15
+
+4.
+Microsoft.EntityFrameworkCore @ 6.0.16
+
+5. phân trang
+PagedList.Core.Mvc @ 3.0.0
+
+6.
+AspNetCoreHero.ToastNotification @ 1.1.0
+
+cấu hình trong file Program.cs:
+builder.Services.AddNotyf(config => { config.DurationInSeconds = 10; config.IsDismissable = true; config.Position = NotyfPosition.BottomRight; });
+
+cấu hình trong phần script của body layout.cshtml để hiển thị toast: 
+@await Component.InvokeAsync("Notyf")
+@await RenderSectionAsync("Scripts", required: false)
+
+cấu hình trong phần controller để hiển thị toast: 
+public INotyfService _notifyService { get; }
+public HomeController( INotyfService notifyService)
+{
+	_notifyService = notifyService;
+}
+
+------------
+side nav admin partial view
+dashboard
+Quản lý đơn hàng
+Quản lý sản phẩm
+Quản lý khách hàng
+Quản lý doanh số
+Quản lý hệ thống
+Quản lý tin tức
+Quản lý pages
+Quản lý shipper
+
