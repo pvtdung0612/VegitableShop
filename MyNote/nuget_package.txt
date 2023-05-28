@@ -10,6 +10,16 @@ Microsoft.EntityFrameworkCore.Tools @ 6.0.15
 
 3.
 Microsoft.EntityFrameworkCore.SqlServer @ 6.0.15
+cấu hình trong appsettings.json:
+  "ConnectionStrings": {
+    //"DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=aspnet-VegitableShop-74b7bcce-570d-4e1c-b21b-6d765ebaac75;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "dbVegitableShop": "Server=DESKTOP-HM9E0PP; Database=dbVegitableShop; Trusted_Connection=True; MultipleActiveResultSets=true"
+  },
+
+cấu hình hình trong Program.cs:
+var connectionString = builder.Configuration.GetConnectionString("dbVegitableShop");
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(connectionString));
 
 cấu hình trong Tools> NugetPackage Manager> Package Manager Console:
 Scaffold-DbContext "Server=DESKTOP-HM9E0PP; Database=dbVegitableShop; Trusted_Connection=True; MultipleActiveResultSets=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
@@ -36,6 +46,12 @@ public HomeController( INotyfService notifyService)
 {
 	_notifyService = notifyService;
 }
+
+7. Hiển thị unicode trên aspnet:
+cấu hình hình trong file Program.cs:
+builder.Services.AddSingleton<HtmlEncoder>(
+           HtmlEncoder.Create(allowedRanges: new[] { UnicodeRanges.All }));
+
 
 ------------
 side nav admin partial view
