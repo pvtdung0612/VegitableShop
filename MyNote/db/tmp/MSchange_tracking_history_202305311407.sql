@@ -1,0 +1,146 @@
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 07:18:23.663','2023-05-30 07:18:26.447',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 07:18:26.567','2023-05-30 07:18:26.607',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 07:18:26.927','2023-05-30 07:18:26.927',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 07:48:32.16','2023-05-30 07:48:32.21',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 07:48:32.21','2023-05-30 07:48:32.217',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 07:48:32.27','2023-05-30 07:48:32.27',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 08:48:38.28','2023-05-30 08:48:38.32',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 08:48:38.32','2023-05-30 08:48:38.327',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 08:48:38.377','2023-05-30 08:48:38.377',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 09:48:43.783','2023-05-30 09:48:43.847',0,0,N'auto cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 09:48:43.85','2023-05-30 09:48:43.853',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 09:48:43.91','2023-05-30 09:48:43.91',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 10:18:46.787','2023-05-30 10:18:46.823',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 10:18:46.827','2023-05-30 10:18:46.83',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 10:18:46.863','2023-05-30 10:18:46.863',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 10:48:49.8','2023-05-30 10:48:49.82',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 10:48:49.82','2023-05-30 10:48:49.823',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 10:48:49.85','2023-05-30 10:48:49.85',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 11:18:52.73','2023-05-30 11:18:52.753',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 11:18:52.753','2023-05-30 11:18:52.757',0,0,N'auto cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'syscommittab',N'syscommittab','2023-05-30 11:18:52.783','2023-05-30 11:18:52.783',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 11:48:54.6','2023-05-30 11:48:54.62',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 11:48:54.62','2023-05-30 11:48:54.62',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 11:48:54.65','2023-05-30 11:48:54.65',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 12:18:59.82','2023-05-30 12:18:59.867',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 12:18:59.87','2023-05-30 12:18:59.87',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 12:18:59.95','2023-05-30 12:18:59.95',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 12:49:02.713','2023-05-30 12:49:02.753',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 12:49:02.757','2023-05-30 12:49:02.757',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 12:49:02.883','2023-05-30 12:49:02.883',0,0,N'syscommittab cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 16:36:18.65','2023-05-30 16:36:18.72',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 16:36:18.72','2023-05-30 16:36:18.727',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 16:36:18.853','2023-05-30 16:36:18.853',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 18:36:32.38','2023-05-30 18:36:32.423',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 18:36:32.427','2023-05-30 18:36:32.43',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 18:36:32.51','2023-05-30 18:36:32.51',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 19:06:35.533','2023-05-30 19:06:35.573',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 19:06:35.577','2023-05-30 19:06:35.58',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 19:06:35.657','2023-05-30 19:06:35.657',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 19:55:31.167','2023-05-30 19:55:31.343',0,0,N'auto cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 19:55:31.347','2023-05-30 19:55:31.35',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 19:55:31.517','2023-05-30 19:55:31.517',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 21:19:40.567','2023-05-30 21:19:40.663',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 21:19:40.667','2023-05-30 21:19:40.673',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 21:19:40.767','2023-05-30 21:19:40.767',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 21:49:43.34','2023-05-30 21:49:43.453',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 21:49:43.457','2023-05-30 21:49:43.46',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 21:49:43.58','2023-05-30 21:49:43.58',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 22:19:46.2','2023-05-30 22:19:46.3',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 08:18:35.067','2023-05-30 08:18:35.11',0,0,N'auto cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 08:18:35.11','2023-05-30 08:18:35.117',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 08:18:35.17','2023-05-30 08:18:35.17',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 22:19:46.307','2023-05-30 22:19:46.31',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 22:19:46.417','2023-05-30 22:19:46.42',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 22:49:49.04','2023-05-30 22:49:49.153',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 22:49:49.157','2023-05-30 22:49:49.17',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 22:49:49.273','2023-05-30 22:49:49.273',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 23:19:52.593','2023-05-30 23:19:52.77',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 23:19:52.777','2023-05-30 23:19:52.783',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 23:19:52.94','2023-05-30 23:19:52.943',0,0,N'syscommittab cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 23:49:54.003','2023-05-30 23:49:54.077',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 23:49:54.08','2023-05-30 23:49:54.087',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 23:49:54.257','2023-05-30 23:49:54.257',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 00:19:56.733','2023-05-31 00:19:56.8',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 00:19:56.8','2023-05-31 00:19:56.807',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 00:19:56.9','2023-05-31 00:19:56.9',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 07:28:53.04','2023-05-31 07:28:55.99',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 07:28:56.063','2023-05-31 07:28:56.09',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 07:28:56.597','2023-05-31 07:28:56.597',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 08:59:05.833','2023-05-31 08:59:05.933',0,0,N'auto cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 08:59:05.937','2023-05-31 08:59:05.943',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 08:59:06.043','2023-05-31 08:59:06.047',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 09:29:08.693','2023-05-31 09:29:08.783',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 09:29:08.787','2023-05-31 09:29:08.797',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 09:29:08.907','2023-05-31 09:29:08.907',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 09:59:04.023','2023-05-31 09:59:04.103',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 09:59:04.11','2023-05-31 09:59:04.113',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 09:59:04.233','2023-05-31 09:59:04.237',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 11:29:12.71','2023-05-31 11:29:12.763',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 11:29:12.767','2023-05-31 11:29:12.77',0,0,N'auto cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'syscommittab',N'syscommittab','2023-05-31 11:29:12.857','2023-05-31 11:29:12.857',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 12:31:59.027','2023-05-31 12:31:59.083',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 12:31:59.087','2023-05-31 12:31:59.09',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 12:31:59.143','2023-05-31 12:31:59.143',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 13:32:06.897','2023-05-31 13:32:06.94',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 13:32:06.943','2023-05-31 13:32:06.943',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 13:32:07.017','2023-05-31 13:32:07.017',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 09:18:40.807','2023-05-30 09:18:40.843',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 09:18:40.847','2023-05-30 09:18:40.85',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 09:18:40.9','2023-05-30 09:18:40.9',0,0,N'syscommittab cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 15:06:07.637','2023-05-30 15:06:08.097',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 15:06:08.103','2023-05-30 15:06:08.117',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 15:06:09.657','2023-05-30 15:06:09.66',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 15:36:12.303','2023-05-30 15:36:12.37',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 15:36:12.373','2023-05-30 15:36:12.38',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 15:36:12.49','2023-05-30 15:36:12.49',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 16:06:15.563','2023-05-30 16:06:15.643',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 16:06:15.647','2023-05-30 16:06:15.65',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 16:06:15.757','2023-05-30 16:06:15.757',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 17:36:25.64','2023-05-30 17:36:25.733',0,0,N'auto cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 17:36:25.737','2023-05-30 17:36:25.74',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 17:36:25.857','2023-05-30 17:36:25.857',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 20:49:36.433','2023-05-30 20:49:36.51',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 20:49:36.513','2023-05-30 20:49:36.52',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 20:49:36.637','2023-05-30 20:49:36.64',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 10:29:07.09','2023-05-31 10:29:07.177',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 10:29:07.18','2023-05-31 10:29:07.187',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 10:29:07.3','2023-05-31 10:29:07.3',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 10:59:09.533','2023-05-31 10:59:09.6',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 10:59:09.603','2023-05-31 10:59:09.61',0,0,N'auto cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'syscommittab',N'syscommittab','2023-05-31 10:59:09.683','2023-05-31 10:59:09.683',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 17:06:21.763','2023-05-30 17:06:21.857',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 17:06:21.86','2023-05-30 17:06:21.867',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 17:06:22.043','2023-05-30 17:06:22.047',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 07:59:00.34','2023-05-31 07:59:00.403',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 07:59:00.407','2023-05-31 07:59:00.41',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 07:59:00.52','2023-05-31 07:59:00.523',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 11:59:15.66','2023-05-31 11:59:15.707',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 11:59:15.71','2023-05-31 11:59:15.713',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 11:59:15.79','2023-05-31 11:59:15.79',0,0,N'syscommittab cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-30 18:06:28.973','2023-05-30 18:06:29.04',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-30 18:06:29.043','2023-05-30 18:06:29.05',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-30 18:06:29.13','2023-05-30 18:06:29.13',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 13:02:03.963','2023-05-31 13:02:04.01',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 13:02:04.013','2023-05-31 13:02:04.017',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 13:02:04.093','2023-05-31 13:02:04.097',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 14:02:10.24','2023-05-31 14:02:10.28',0,0,N'auto cleanup succeeded'),
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 14:02:10.283','2023-05-31 14:02:10.287',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 14:02:10.363','2023-05-31 14:02:10.363',0,0,N'syscommittab cleanup succeeded'),
+	 (N'change_tracking_1301579675',N'Accounts','2023-05-31 08:29:03.213','2023-05-31 08:29:03.293',0,0,N'auto cleanup succeeded');
+INSERT INTO dbVegitableShop.dbo.MSchange_tracking_history (internal_table_name,table_name,start_time,end_time,rows_cleaned_up,cleanup_version,comments) VALUES
+	 (N'change_tracking_1269579561',N'Products','2023-05-31 08:29:03.3','2023-05-31 08:29:03.303',0,0,N'auto cleanup succeeded'),
+	 (N'syscommittab',N'syscommittab','2023-05-31 08:29:03.417','2023-05-31 08:29:03.417',0,0,N'syscommittab cleanup succeeded');

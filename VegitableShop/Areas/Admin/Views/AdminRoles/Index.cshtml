@@ -5,13 +5,22 @@
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 
+<div class="page-header">
+    <div class="header-sub-title">
+        <nav class="breadcrumb breadcrumb-dash">
+            <a asp-area="Admin" asp-controller="AdminRoles" asp-action="Index" class="breadcrumb-item"><i class="anticon anticon-home m-r-5"></i>Quản lý truy cập</a>
+            <a asp-area="Admin" asp-controller="AdminRoles" asp-action="Index" class="breadcrumb-item">Danh sách quyền truy cập</a>
+        </nav>
+    </div>
+</div>
+
 <div class="table-responsive">
     <table class="table">
         <thead>
             <tr>
-                <th scope="col">ID</th>
-                <th scope="col">Tên</th>
-                <th scope="col">Mô tả</th>
+                <th scope="col">ID:</th>
+                <th scope="col">Tên:</th>
+                <th scope="col">Mô tả:</th>
             </tr>
         </thead>
         <tbody>

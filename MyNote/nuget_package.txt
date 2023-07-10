@@ -21,7 +21,7 @@ var connectionString = builder.Configuration.GetConnectionString("dbVegitableSho
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 
-cấu hình trong Tools> NugetPackage Manager> Package Manager Console:
+cấu hình trong Tools>NugetPackage Manager>Package Manager Console:
 Scaffold-DbContext "Server=DESKTOP-HM9E0PP; Database=dbVegitableShop; Trusted_Connection=True; MultipleActiveResultSets=true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
 
 4.
